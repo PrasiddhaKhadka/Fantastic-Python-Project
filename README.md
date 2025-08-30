@@ -46,4 +46,9 @@ Its beginner-friendly syntax makes it one of the **best first languages** to lea
 | 1           | Love Calculator ❤️             | [Love-Calculator](./love_calculator)               |
 | 2           | Hangman Game 🎮                | [Hangman](./hangman_game)                               |
 | 3           | Fibonacci Series Generator 🔢  | [Fibonacci-Series](./fibonacci_series)             |
-| 4           | Rock Paper Scissor 💾             | [SQL-Integration](./Rock_Paper_Scissor)               |
+| 4           | Rock Paper Scissor 💾             | [Rock_Paper_Scissor](./Rock_Paper_Scissor)               |
+| 5           | Treasure Hunt Project          | [Treasure_Hunt_Project](./Treasure_Hunt_Project)     |
+| 6           | Password Generator            | [Password_Generator](./Password_Generator)         |
+| 7           | Head or Tail                   | [Head_tail](./Head_tail)                             |
+| 8           | Sum List                       | [sum_list](./sum_list)                               |
+| 9           | Random Bill Pay                | [random_bill_pay](./random_bill_pay)                |
