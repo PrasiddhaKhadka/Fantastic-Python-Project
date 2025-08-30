@@ -37,3 +37,12 @@ Its beginner-friendly syntax makes it one of the **best first languages** to lea
    Save this in a file called `hello.py`:
    ```python
    print("Hello, Python World! 🎉")
+
+
+| Project No. | Project Name                   | Folder Link                                        |
+| ----------- | ------------------------------ | -------------------------------------------------- |
+| 1           | Love Calculator ❤️             | [Love-Calculator](./Love-Calculator)               |
+| 2           | Hangman Game 🎮                | [Hangman](./hangman_game)                               |
+| 3           | Fibonacci Series Generator 🔢  | [Fibonacci-Series](./Fibonacci-Series)             |
+| 4           | Heart Disease Data Analysis 📊 | [Heart-Disease-Analysis](./Heart-Disease-Analysis) |
+| 5           | SQL with Python 💾             | [SQL-Integration](./SQL-Integration)               |
