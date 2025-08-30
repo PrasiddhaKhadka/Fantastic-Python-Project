@@ -29,32 +29,4 @@ def calculate_love_score(hisName:str,herName:str):
 calculate_love_score("Kanye West","Kim Kardashian")
 
 
-# Example: How it Calculates:
-# e.g.
-
-# name1 = "Angela Yu" name2 = "Jack Bauer"
-
-# T occurs 0 times 
-
-# R occurs 1 time 
-
-# U occurs 2 times 
-
-# E occurs 2 times 
-
-# Total = 5 
-
-# L occurs 1 time 
-
-# O occurs 0 times 
-
-# V occurs 0 times 
-
-# E occurs 2 times 
-
-# Total = 3 
-
-
-
-# Love Score = 53
 
