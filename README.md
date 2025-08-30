@@ -39,10 +39,11 @@ Its beginner-friendly syntax makes it one of the **best first languages** to lea
    print("Hello, Python World! 🎉")
 
 
+## 🚀 Table of Content Python
+
 | Project No. | Project Name                   | Folder Link                                        |
 | ----------- | ------------------------------ | -------------------------------------------------- |
-| 1           | Love Calculator ❤️             | [Love-Calculator](./Love-Calculator)               |
+| 1           | Love Calculator ❤️             | [Love-Calculator](./love_calculator)               |
 | 2           | Hangman Game 🎮                | [Hangman](./hangman_game)                               |
-| 3           | Fibonacci Series Generator 🔢  | [Fibonacci-Series](./Fibonacci-Series)             |
-| 4           | Heart Disease Data Analysis 📊 | [Heart-Disease-Analysis](./Heart-Disease-Analysis) |
-| 5           | SQL with Python 💾             | [SQL-Integration](./SQL-Integration)               |
+| 3           | Fibonacci Series Generator 🔢  | [Fibonacci-Series](./fibonacci_series)             |
+| 4           | Rock Paper Scissor 💾             | [SQL-Integration](./Rock_Paper_Scissor)               |
